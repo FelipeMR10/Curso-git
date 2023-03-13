@@ -1,6 +1,20 @@
 body 
 {
-color: crimson ;
+color:grey;
 text-align: right;
 font-family: 'Courier New';
+font-size: 16;
+
+
+
+}
+
+#container
+{
+    width: 30%;
+    padding: .5cm;
+    text-align: right;
+    border: 10px solid  salmon;
+    margin: 3cm;
+
 }
