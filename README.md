@@ -1,2 +1,2 @@
 # Curso-git
-Repos del cusro de git y github platzi
+Repositorio del curso de git y github platzi 2023
