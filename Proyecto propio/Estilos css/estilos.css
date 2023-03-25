@@ -1,0 +1,27 @@
+#container
+{
+    width: 50%;
+    padding: .5cm;
+    border: 10px solid rgb(143, 23, 23);
+    margin: 3cm;
+}
+#post 
+{
+color:rgb(151, 121, 121);
+font-family: 'Courier New';
+font-size: 16;
+}
+h1
+{
+    color: black;
+    text-align: center;
+    
+}
+p1
+{
+color: chocolate;
+text-align: left;
+font-family: 'Franklin Gothic Medium';
+
+
+}
